@@ -1,6 +1,6 @@
 WebApp Dashboard - Techdegree Project 7
 
-This project was on the following browsers to make sure all features worked properly:
+This project was tested on the following browsers to make sure all features worked properly:
 
 Google Chrome, Mozilla Firefox, Microsoft Edge
 
